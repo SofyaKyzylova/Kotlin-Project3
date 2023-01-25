@@ -1,5 +1,5 @@
 # Kotlin-Project3
-Kotlin homework 3 for my Advanced Engineering School classes
+Kotlin homework 3 for my Advanced Engineering School classes.
 Additional tasks
 
 CONDITIONAL OPERATORS:
