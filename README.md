@@ -1,6 +1,6 @@
 # Kotlin-Project3
 Kotlin homework 3 for my Advanced Engineering School classes.
-Additional tasks
+* Additional tasks
 
 CONDITIONAL OPERATORS:
 1. The user enters a number in the console. If it is greater than 10, we output a message “The number is greater than ten”, if less – “The number is less than ten”
